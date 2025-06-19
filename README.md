@@ -1,21 +1,22 @@
 # 🐍 Python DSA Daily Progress Tracker 🚀
 
-Welcome to my journey of mastering **Data Structures and Algorithms in Python**, following the [Striver's A2Z DSA Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/).
+Welcome to my journey of mastering **Data Structures and Algorithms in Python**, following the [Striver's A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/).
 
 ---
 
 ## 📅 Daily Progress Log
 
-| Day | Date       | Topic/Pattern    | Problem(s) Solved                             | Source/Link(s)             | Difficulty | Notes/Learnings                | Status   |
-|-----|------------|-----------------|----------------------------------------------|---------------------------|------------|-------------------------------|----------|
-| 1   | 2025-06-15 | Arrays - Basics | 1. Find Largest Element <br> 2. Second Largest Element | [Link1](#) [Link2](#)   | Easy       | Learned array traversal basics | ✅ Done  |
-| 2   | YYYY-MM-DD | Sorting         | 1. Bubble Sort <br> 2. Selection Sort          | [Link1](#) [Link2](#)     | Easy/Med   | Practiced sorting in-place     | ⏳ Pending |
-| 3   | ...        | ...             | ...                                          | ...                       | ...        | ...                           | ...      |
+| Day | Date       | Topic/Pattern     | Problem(s) Solved                                                                                                                                                                      | Source/Link(s)                                                                | Difficulty | Notes/Learnings                          | Status   |
+|-----|------------|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|------------|------------------------------------------|----------|
+| 1   | 2025-06-19 | [Math - Basics](https://github.com/Bishal1998/A2ZStriverSheet/tree/main/basic_math) | 1. Count Digits <br> 2. Reverse Digits <br> 3. Check Palindrome <br> 4. Find GCD of two numbers <br> 5. Armstrong Number <br> 6. Find all the divisors <br> 7. Check Prime Number <br> | [Github](https://github.com/Bishal1998/A2ZStriverSheet/tree/main/basic_math)  | Easy       | Learned several concepts related to math | ✅ Done  |
+| 2   | YYYY-MM-DD | Sorting           | 1. Bubble Sort <br> 2. Selection Sort                                                                                                                                                  | [Link1](#) [Link2](#)                                                         | Easy/Med   | Practiced sorting in-place               | ⏳ Pending |
+| 3   | ...        | ...               | ...                                                                                                                                                                                    | ...                                                                           | ...        | ...                                      | ...      |
 
 ---
 
 ## ✅ Completed Sections:
 
+- [x] Math Basics (Easy)
 - [ ] Arrays (Easy)
 - [ ] Arrays (Medium/Hard)
 - [ ] Sorting & Searching
@@ -83,7 +84,7 @@ Welcome to my journey of mastering **Data Structures and Algorithms in Python**,
 ## 👨‍💻 Author
 
 **Bishal Paudel** — Graduate CS Student @ Wright State University, USA  
-🔗 [LinkedIn](#) • [GitHub](#) • [LeetCode](#)
+🔗 [LinkedIn](https://www.linkedin.com/in/bishal2055/) • [GitHub](https://github.com/Bishal1998) • [LeetCode](https://leetcode.com/u/Bishal1998/)
 
 ---
 
