@@ -1,4 +1,24 @@
+'''
 
+Problem Statement: "Given a string, check if the string is palindrome or not."  A string is said to be palindrome if the reverse of the string is the same as the string.
+
+
+Example 1:
+Input: Str =  “ABCDCBA”
+Output: Palindrome
+Explanation: String when reversed is the same as string.
+
+Example 2:
+Input: Str = “TAKE U FORWARD”
+Output: Not Palindrome
+Explanation: String when reversed is not the same as string.
+
+Solution Approach: Brute Force approach and then recursion.
+
+arr[start] == arr[end] we need to check this, and if this satisfies over the different character, the string must be palindrome else not.
+
+
+'''
 my_string = "ABCDXBA"
 
 def check_palindrome(arr, start, end):
