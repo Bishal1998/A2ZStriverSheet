@@ -6,17 +6,20 @@ Welcome to my journey of mastering **Data Structures and Algorithms in Python**,
 
 ## 📅 Daily Progress Log
 
-| Day | Date       | Topic/Pattern                                                                              | Problem(s) Solved                                                                                                                                            | Difficulty  | Notes/Learnings                       | Status    |
-| --- | ---------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- | ------------------------------------- | --------- |
-| 1   | 2025-06-19 | [Math - Basics](https://github.com/Bishal1998/A2ZStriverSheet/tree/main/basic_math)        | 1. Count Digits <br> 2. Reverse Digits <br> 3. Check Palindrome <br> 4. GCD of two numbers <br> 5. Armstrong Number <br> 6. All Divisors <br> 7. Prime Check | Easy        | Learned several core math concepts    | ✅ Done    |
-| 2   | 2025-06-23 | [Basic Recursion](https://github.com/Bishal1998/A2ZStriverSheet/tree/main/basic_recursion) | 1. Print Numbers (Inc/Dec) <br> 2. Sum of N Numbers <br> 3. Factorial <br> 4. Reverse Array (Recursion) <br> 5. Palindrome Check <br> 6. Fibonacci Series    | Easy/Medium | Understood recursion basics clearly   | ✅ Done    |
-| 3   | YYYY-MM-DD | [Sorting](#)                                                                               | 1. Bubble Sort <br> 2. Selection Sort                                                                                                                        | Easy/Medium | Practiced in-place sorting techniques | ⏳ Pending |
-
+<!--START_TABLE-->
+| Day | Date       | Topic/Pattern                                                                              | Problem(s) Solved                                                                                                                                                                                   | Difficulty  | Notes/Learnings                       | Status    |
+|-----|------------|--------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| ----------- |---------------------------------------| --------- |
+| 1   | 2025-06-19 | [Math - Basics](https://github.com/Bishal1998/A2ZStriverSheet/tree/main/basic_math)        | 1. Count Digits <br> 2. Reverse Digits <br> 3. Check Palindrome <br> 4. GCD of two numbers <br> 5. Armstrong Number <br> 6. All Divisors <br> 7. Prime Check                                        | Easy        | Learned several core math concepts    | ✅ Done    |
+| 2   | 2025-06-23 | [Basic Recursion](https://github.com/Bishal1998/A2ZStriverSheet/tree/main/basic_recursion) | 1. Print Numbers (Inc/Dec) <br> 2. Sum of N Numbers <br> 3. Factorial <br> 4. Reverse Array (Recursion) <br> 5. Palindrome Check <br> 6. Fibonacci Series                                           | Easy/Medium | Understood recursion basics clearly   | ✅ Done    |
+| 3   | 2025-06-25 | [Basic Hashing](https://github.com/Bishal1998/A2ZStriverSheet/tree/main/basic_hashing)   | 1. Hashing Theory <br> 2. Counting frequencies of array elements <br> 3. Finding the highest/lowest frequency element | Easy/Medium | Understood hashing basics clearly     | ✅ Done    |
+| 4   | YYYY-MM-DD | [Sorting](#)                                                                               | 1. Bubble Sort <br> 2. Selection Sort                                                                                                                                                               | Easy/Medium | Practiced in-place sorting techniques | ⏳ Pending |
+<!--END_TABLE-->
 
 ## ✅ Completed Sections:
 
 - [x] Math Basics (Easy)
 - [x] Basic Recursion (Easy / Medium)
+- [x] Basic Hashing (Easy / Medium)
 - [ ] Arrays (Easy)
 - [ ] Arrays (Medium/Hard)
 - [ ] Sorting & Searching
