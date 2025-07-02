@@ -23,42 +23,33 @@ def merge_sort(arr):
         return arr
 
     mid = len(arr) // 2
-    left = arr[:mid]
-    right = arr[mid:]
 
-    merge_sort(left)
-    merge_sort(right)
-    return merge(arr, left, right)
+    left = merge_sort(arr[:mid])
+    right = merge_sort(arr[mid:])
+    return merge(left, right)
 
 
-def merge(arr, a, b):
+def merge(a, b):
     len_a = len(a)
     len_b = len(b)
+    result = []
 
-    i = j = k = 0
+    i = j = 0
 
     while i < len_a and j < len_b:
         if a[i] <= b[j]:
-            arr[k] = a[i]
+            result.append(a[i])
             i += 1
         else:
-            arr[k] = b[j]
+            result.append(b[j])
             j += 1
-        k += 1
 
-    while i < len_a:
-        arr[k] = a[i]
-        i += 1
-        k += 1
+    result.extend(a[i:])
+    result.extend(b[j:])
 
-    while j < len_b:
-        arr[k] = b[j]
-        j += 1
-        k += 1
-
-    return arr
+    return result
 
 
 arr = [3, 2, 8, 5, 1, 4, 23]
-merge_sort(arr)
-print(arr)
+new_arr = merge_sort(arr)
+print(new_arr)
