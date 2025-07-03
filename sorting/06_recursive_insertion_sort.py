@@ -33,3 +33,18 @@ def recursive_insertion_sort(arr, i = 0):
     return recursive_insertion_sort(arr, i + 1)
 
 print(recursive_insertion_sort([13,46,24,52,20,9]))
+
+
+
+def recursive_insertion_shift(arr, i = 0):
+
+    key = arr[i]
+    j = i - 1
+    while j >= 0 and arr[j] > key:
+        arr[j + 1] = arr[j]
+        j -= 1
+    arr[j + 1] = key
+
+    return recursive_insertion_sort(arr, i + 1)
+
+print(recursive_insertion_shift([13,46,24,52,20,9]))
