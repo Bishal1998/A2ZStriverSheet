@@ -26,6 +26,9 @@ Solution Approach: initialize the first element to temp variable, so that we can
 '''
 
 def left_rotate_1(arr):
+
+    if not arr:
+        return arr
     temp = arr[0]
 
     for i in range(len(arr) - 1):
@@ -35,4 +38,4 @@ def left_rotate_1(arr):
     return arr
 
 
-print(left_rotate_1([3,4]))
+print(left_rotate_1([]))
